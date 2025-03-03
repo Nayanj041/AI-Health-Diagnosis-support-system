@@ -1,0 +1,722 @@
+[
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": true
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.7116666666666666,
+                "Bacterial Infection": 0.08666666666666668,
+                "COVID-19": 0.02,
+                "Common Cold": 0.07166666666666666,
+                "Influenza": 0.11
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 09:57:01"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": true
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.7116666666666666,
+                "Bacterial Infection": 0.08666666666666668,
+                "COVID-19": 0.02,
+                "Common Cold": 0.07166666666666666,
+                "Influenza": 0.11
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 13:48:30"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": true
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.7116666666666666,
+                "Bacterial Infection": 0.08666666666666668,
+                "COVID-19": 0.02,
+                "Common Cold": 0.07166666666666666,
+                "Influenza": 0.11
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 14:16:05"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": true,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.49206349206349215,
+                "Bacterial Infection": 0.2639722222222222,
+                "COVID-19": 0.0,
+                "Common Cold": 0.2439642857142857,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.5,
+                "Bacterial Infection": 0.25,
+                "COVID-19": 0.0,
+                "Common Cold": 0.25,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 14:17:07"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": true,
+            "headache": true,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.7371666666666666,
+                "Bacterial Infection": 0.08549999999999999,
+                "COVID-19": 0.0,
+                "Common Cold": 0.057333333333333326,
+                "Influenza": 0.12
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 14:17:28"
+    },
+    {
+        "name": "",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": true,
+            "headache": true,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.7371666666666666,
+                "Bacterial Infection": 0.08549999999999999,
+                "COVID-19": 0.0,
+                "Common Cold": 0.057333333333333326,
+                "Influenza": 0.12
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 14:18:22"
+    },
+    {
+        "name": "nayan",
+        "age": 32,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": true
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.9559487179487179,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.01,
+                "Common Cold": 0.03405128205128206,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:23:11"
+    },
+    {
+        "name": "nayan",
+        "age": 32,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.5023167358506708,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.016721942872149318,
+                "Common Cold": 0.4809613212771799,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.5,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.015151515151515152,
+                "Common Cold": 0.48484848484848486,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:23:36"
+    },
+    {
+        "name": "nayan",
+        "age": 32,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.2442718742115046,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.028988715002307132,
+                "Common Cold": 0.7267394107861882,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.24242424242424243,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.030303030303030304,
+                "Common Cold": 0.7272727272727273,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:23:47"
+    },
+    {
+        "name": "nayan",
+        "age": 32,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": true,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.16326264818450364,
+                "Bacterial Infection": 0.09793934044841672,
+                "COVID-19": 0.18715850822608948,
+                "Common Cold": 0.5159058123359802,
+                "Influenza": 0.03573369080500966
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.16129032258064516,
+                "Bacterial Infection": 0.0967741935483871,
+                "COVID-19": 0.1935483870967742,
+                "Common Cold": 0.5161290322580645,
+                "Influenza": 0.03225806451612903
+            }
+        },
+        "timestamp": "2024-11-21 18:23:52"
+    },
+    {
+        "name": "nayan",
+        "age": 32,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": true,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.16326264818450364,
+                "Bacterial Infection": 0.09793934044841672,
+                "COVID-19": 0.18715850822608948,
+                "Common Cold": 0.5159058123359802,
+                "Influenza": 0.03573369080500966
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.16129032258064516,
+                "Bacterial Infection": 0.0967741935483871,
+                "COVID-19": 0.1935483870967742,
+                "Common Cold": 0.5161290322580645,
+                "Influenza": 0.03225806451612903
+            }
+        },
+        "timestamp": "2024-11-21 18:25:05"
+    },
+    {
+        "name": "nayan",
+        "age": 34,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": false,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": false,
+            "nausea": false,
+            "diarrhea": true
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Allergic Reaction",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.7116666666666666,
+                "Bacterial Infection": 0.08666666666666668,
+                "COVID-19": 0.02,
+                "Common Cold": 0.07166666666666666,
+                "Influenza": 0.11
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 1.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:25:22"
+    },
+    {
+        "name": "nayan",
+        "age": 34,
+        "gender": "Male",
+        "symptoms": {
+            "fever": false,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.48142912642912633,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.5185708735708736,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Allergic Reaction",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.5,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 0.5,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:25:43"
+    },
+    {
+        "name": "nayan",
+        "age": 34,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.021666666666666664,
+                "Bacterial Infection": 0.015,
+                "COVID-19": 0.005,
+                "Common Cold": 0.9583333333333335,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 1.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:25:53"
+    },
+    {
+        "name": "",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.2442718742115046,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.028988715002307132,
+                "Common Cold": 0.7267394107861882,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.24242424242424243,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.030303030303030304,
+                "Common Cold": 0.7272727272727273,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:26:50"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.2442718742115046,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.028988715002307132,
+                "Common Cold": 0.7267394107861882,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.24242424242424243,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.030303030303030304,
+                "Common Cold": 0.7272727272727273,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:26:55"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.021666666666666664,
+                "Bacterial Infection": 0.015,
+                "COVID-19": 0.005,
+                "Common Cold": 0.9583333333333335,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 1.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:28:00"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": true,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "COVID-19",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.047126373626373626,
+                "Bacterial Infection": 0.04102380952380952,
+                "COVID-19": 0.7067271062271062,
+                "Common Cold": 0.19738644688644688,
+                "Influenza": 0.007736263736263735
+            },
+            "dt_predicted_condition": "COVID-19",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 1.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:28:13"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": true,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "COVID-19",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.047126373626373626,
+                "Bacterial Infection": 0.04102380952380952,
+                "COVID-19": 0.7067271062271062,
+                "Common Cold": 0.19738644688644688,
+                "Influenza": 0.007736263736263735
+            },
+            "dt_predicted_condition": "COVID-19",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 1.0,
+                "Common Cold": 0.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:30:36"
+    },
+    {
+        "name": "nayan",
+        "age": 30,
+        "gender": "Male",
+        "symptoms": {
+            "fever": true,
+            "cough": true,
+            "fatigue": false,
+            "difficulty_breathing": false,
+            "body_ache": false,
+            "headache": false,
+            "sore_throat": false,
+            "runny_nose": true,
+            "nausea": false,
+            "diarrhea": false
+        },
+        "diagnosis": {
+            "rf_predicted_condition": "Common Cold",
+            "rf_confidence_scores": {
+                "Allergic Reaction": 0.021666666666666664,
+                "Bacterial Infection": 0.015,
+                "COVID-19": 0.005,
+                "Common Cold": 0.9583333333333335,
+                "Influenza": 0.0
+            },
+            "dt_predicted_condition": "Common Cold",
+            "dt_confidence_scores": {
+                "Allergic Reaction": 0.0,
+                "Bacterial Infection": 0.0,
+                "COVID-19": 0.0,
+                "Common Cold": 1.0,
+                "Influenza": 0.0
+            }
+        },
+        "timestamp": "2024-11-21 18:30:39"
+    }
+]
